@@ -1,3 +1,12 @@
+# Description
+This Project is used to manage Inventory of Book Store. This includes a In Stock Page, Out of Stock Page and also a page for adding new books.
+
+# Technologies Used
+HTML\
+Java\
+Spring Boot\
+MySQL
+
 # Home Page
 ![image](https://github.com/V-VIVEK-S/Inventory-Management-System/assets/110480503/be278676-4c71-48da-ac78-0cee6920daf2)
 # In Stock Page
